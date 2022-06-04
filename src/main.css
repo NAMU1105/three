@@ -1,0 +1,14 @@
+body {
+  margin: 0;
+}
+
+/* .container {
+  display: flex;
+  justify-contnent: center;
+  align-items: center;
+} */
+#three-canvas {
+  position: absolute;
+  left: 0;
+  top: 0;
+}

@@ -1,0 +1,17 @@
+# Dependencies
+node_modules
+
+# Logs
+*.log
+
+# Environment variables
+.env
+
+#cache
+.cache
+
+#execution script
+run.sh
+run-dev.sh
+run-prod.sh
+test.sh
